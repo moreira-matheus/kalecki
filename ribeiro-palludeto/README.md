@@ -6,5 +6,5 @@
 
 ***
 
-This repository contains my poor man's attempts to implement the two- and three variable versions of the model presented in the aforementioned paper.
+This repository contains my poor man's attempts to implement the two- and three-variable versions of the model presented in the aforementioned paper.
 Some of the equations that constitute the model can be found in the Jupyter Notebooks herein.
